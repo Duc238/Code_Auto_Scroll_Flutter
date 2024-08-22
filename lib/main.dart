@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
       title: "Auto Scroll in Flutter",
       debugShowCheckedModeBanner: false,
       home: Scaffold(
+        centerTitle: true,
         appBar: AppBar(
           title: Text(
             'Auto Scroll Example',
