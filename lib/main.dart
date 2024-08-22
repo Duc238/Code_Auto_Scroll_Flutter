@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         centerTitle: true,
         appBar: AppBar(
           title: Text(
-            'Auto Scroll Example',
+            'Auto Scroll',
             style: TextStyle(color: Colors.amberAccent),
           ),
         ),
